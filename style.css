@@ -25,9 +25,9 @@
 
 .item{
     background-color: aqua;
-    color: aquamarine;
+    color: rgba(5, 7, 6, 0.87);
     padding: 8px 12px;
     border-radius: 8px;
     font-weight: bold;
-    
+
 }
